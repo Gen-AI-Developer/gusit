@@ -15,7 +15,7 @@ const Navbar = () => {
           <Link href={"/departments"}>Departments</Link>
           <Link href={"/faculties"}>Faculties</Link>
           <Link href={"/oric"}>ORIC</Link>
-          <Link href={"/reseachjournals"}>Reseach Journals</Link>
+          <Link href={"/researchjournals"}>Reseach Journals</Link>
           <Link href={"/qec"}>QEC</Link>
           <Link href={"/portal-mis"}>Portal/MIS</Link>
           <Link href={"/convocations"}>Convocations</Link>
