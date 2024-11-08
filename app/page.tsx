@@ -4,8 +4,7 @@ import Navbar from "./components/sections/Navbar";
 export default function Home() {
   return (
     <div>
-      <Banner />
-      <Navbar />
+      <div className="font-bold text-2xl"> this landing page</div>
     </div>
   );
 }
